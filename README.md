@@ -1,10 +1,6 @@
 
 <div align="center"> 
   <p>Número de visitantes</p> 
-
-  <br>
-  
-  <img src="https://github.com/MiloNegrete/MiloNegrete/blob/main/BANNER.webp" alt="Número de visitantes" /> 
 </div>
 
 <br>
