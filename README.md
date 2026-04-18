@@ -1,7 +1,7 @@
 
 <div align="center"> 
   <p>Número de visitantes</p> 
-  <img src="https://profile-counter.glitch.me/{MiloNegrete}/count.svg" alt="Número de visitantes" /> 
+  <img src="https://github.com/MiloNegrete/MiloNegrete/blob/main/BANNER.webp" alt="Número de visitantes" /> 
 </div>
 
 <br>
