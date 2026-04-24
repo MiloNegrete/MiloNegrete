@@ -40,35 +40,43 @@ DESARROLLADOR WEB
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiloNegrete&bg_color=000000&color=D4AF37&line=D4AF37&point=FFD166&area=true&hide_border=true&height=220" />
 
+<div align="center">
+
+<!-- Sobre mí -->
+<img src="https://img.shields.io/badge/SOBRE%20MÍ-D4AF37?style=flat&logoColor=black" />
+
+<br>
+
+<div align="center">
+
+<sub>
+Desarrollador Fullstack Java (trainee)  
+ <br>
+Enfocado en aplicaciones web funcionales y centradas en el usuario  
+ <br>
+✔ Listo para contribuir en los requerimientos de tu proyecto  
+ <br>
+🌱 Cursando un bootcamp de Front-end 
+</sub>
+<br><br>
+<!-- Habilidades -->
+<img src="https://img.shields.io/badge/Habilidades-D4AF37?style=flat&logoColor=black" />
+
+<br>
+
+<sub>
+🧠 Lenguajes · 🎨 Front/Back · ⚙️ Frameworks · 🗄️ BD · 🔧 Git · 🧪 Testing
+</sub>
+
 </div>
 
-<p> <h4> Desarrollador Fullstack Java, nivel trainee, apasionado por aprender. <p/>
- <p> Me gusta trabajar en aplicaciones web llamativas, funcionales y centradas en el usuario. </p>
- <p> Listo para colaborar en los requerimientos de tu proyecto</p>
-
- <p> <h2> Hablidades de dominio:</h2> <p/>
-
-<h4> Lenguajes de programación</h4>
-<h4> Front-end & Back-end</h4>
-<h4> Frameworks y librerías </h4>
-
-- 🌱 Actualmente estoy aprendiendo **[ Diseño de sistemas ]( https://blog.bytebytego.com/p/free-system-design-pdf-158-pages )** 
-- 💬 Pregúntame sobre **Java, Node.js, React...o cualquier cosa [ aquí ]( https://github.com/{USERNAME}/{USERNAME}/issues )**
 
  <br> 
 
 <div align="center"> 
-  <a href="milo.negrete@icloud.com.com"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-  </a> 
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank"> 
+ 
+ <a href="https://linkedin.com/in/chijiokeokorji" target="_blank"> 
     <img <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
-  </a> 
-  <a href="https://medium.com/@chijiokeokorji" target="_blank"> 
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> 
-  </a> 
-  <a href="https://codepen.io/chijiokeokorji" target="_blank"> 
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" /> 
   </a> 
 </div>
 
@@ -79,7 +87,7 @@ DESARROLLADOR WEB
  <br> 
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql,html,css,js,postman,bootstrap,jquery" /> 
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql,html,css,js,postman,bootstrap,jquery,github" /> 
 </p> 
 
 <hr>
