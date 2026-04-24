@@ -4,10 +4,25 @@
 </div>
 
 <br>
+<div align="center">
 
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Milo+Negrete!;" /> 
-</h1> 
+<!-- Título principal (más lento y elegante) -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=44&center=true&vCenter=true&width=750&height=80&color=CCFF00&duration=8000&pause=1500&lines=Hola+Mundo,+me+llamo+Camilo" />
+
+<!-- Nombre -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=34&center=true&vCenter=true&width=750&height=60&color=CCFF00&duration=4000&pause=1200&lines=Camilo+Negrete+Garrido" />
+
+<br><br>
+
+<!-- Descripción profesional -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&center=true&vCenter=true&width=800&height=50&color=E6FF66&duration=5500&pause=2500&lines=Desarrollador+en+constante+aprendizaje;Comprometido+con+la+evolución+digital;Involucrado+con+la+calidad+y+buenas+prácticas+de+desarrollo;Listo+para+contribuir+en+equipos+dinámicos+y+proyectos+innovadores" />
+
+<br><br>
+
+<!-- GitHub Activity Graph (más compacto) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiloNegrete&bg_color=000000&color=CCFF00&line=CCFF00&point=E6FF66&area=true&hide_border=true&height=220" />
+
+</div>
 
 ### Un desarrollador Java full-stack apasionado por crer aplicaciones web llamativas, funcionales y centradas en el usuario.
 
