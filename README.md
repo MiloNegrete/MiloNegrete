@@ -42,7 +42,15 @@ DESARROLLADOR WEB
 
 </div>
 
-### Un desarrollador Java full-stack apasionado por crer aplicaciones web llamativas, funcionales y centradas en el usuario.
+<p> <h4> Desarrollador Fullstack Java, nivel trainee, apasionado por aprender. <p/>
+ <p> Me gusta trabajar en aplicaciones web llamativas, funcionales y centradas en el usuario. </p>
+ <p> Listo para colaborar en los requerimientos de tu proyecto</p>
+
+ <p> <h2> Hablidades de dominio:</h2> <p/>
+
+<h4> Lenguajes de programación</h4>
+<h4> Front-end & Back-end</h4>
+<h4> Frameworks y librerías </h4>
 
 - 🌱 Actualmente estoy aprendiendo **[ Diseño de sistemas ]( https://blog.bytebytego.com/p/free-system-design-pdf-158-pages )** 
 - 💬 Pregúntame sobre **Java, Node.js, React...o cualquier cosa [ aquí ]( https://github.com/{USERNAME}/{USERNAME}/issues )**
