@@ -21,7 +21,7 @@ Visitas al perfil
 <div align="center">
 
 <!-- Título principal -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=44&center=true&vCenter=true&width=750&height=80&color=D4AF37&duration=8000&pause=1500&lines=Hola+Mundo,+me+llamo+Camilo" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=44&center=true&vCenter=true&width=750&height=80&color=D4AF37&duration=8000&pause=1500&lines=Hola,+me+llamo+Camilo" />
 
 <!-- Nombre -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=34&center=true&vCenter=true&width=750&height=60&color=D4AF37&duration=4000&pause=1200&lines=Camilo+Negrete+Garrido" />
@@ -29,7 +29,7 @@ Visitas al perfil
 <br><br>
 
  <h1>
-DESARROLLADOR WEB 
+SOY UN DESARROLLADOR WEB 
   <h1/>
 </p>
 <!-- Descripción profesional -->
@@ -56,7 +56,7 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
  <br>
 ✔ Listo para contribuir en los requerimientos de tu proyecto  
  <br>
-🌱 Cursando un bootcamp de Front-end 
+🌱 Profundizando en Front-end 
 </sub>
 <br><br>
 <!-- Habilidades -->
@@ -87,7 +87,7 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
  <br> 
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql,html,css,js,postman,bootstrap,jquery,github" /> 
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql,html,css,js,postman,bootstrap,jquery,github,maven" /> 
 </p> 
 
 <hr>
