@@ -28,9 +28,7 @@ Visitas al perfil
 
 <br><br>
 
- <h1>
-SOY UN DESARROLLADOR WEB 
-  <h1/>
+ <h1>SOY UN DESARROLLADOR WEB</h1>
 </p>
 <!-- Descripción profesional -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&center=true&vCenter=true&width=800&height=50&color=FFD166&duration=5500&pause=2500&lines=En+constante+aprendizaje;Comprometido+con+la+evolución+digital;Involucrado+con+la+calidad+y+buenas+prácticas+de+desarrollo;Listo+para+contribuir+en+equipos+dinámicos+y+proyectos+innovadores" />
@@ -43,6 +41,9 @@ SOY UN DESARROLLADOR WEB
 <div align="center">
 
 <!-- Sobre mí -->
+
+
+
 <img src="https://img.shields.io/badge/SOBRE%20MÍ-D4AF37?style=flat&logoColor=black" />
 
 <br>
@@ -93,6 +94,16 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 <hr>
 
 
+<a href="https://github.com/MiloNegrete/alke_wallet">
+  <img src="https://img.shields.io/badge/Alke%20Wallet-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://github.com/MiloNegrete/smart_task">
+  <img src="https://img.shields.io/badge/SmartTask-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/MiloNegrete/base_de_datos">
+  <img src="https://img.shields.io/badge/Base_De_Datos-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 
 
