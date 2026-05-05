@@ -50,7 +50,6 @@ Visitas al perfil
 
 <div align="center">
 
-<sub>
 Desarrollador Fullstack Java (trainee)  
  <br>
 Enfocado en aplicaciones web funcionales y centradas en el usuario  
@@ -58,7 +57,6 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 ✔ Listo para contribuir en los requerimientos de tu proyecto  
  <br>
 🌱 Profundizando en Front-end 
-</sub>
 <br><br>
 <!-- Habilidades -->
 <img src="https://img.shields.io/badge/Habilidades-D4AF37?style=flat&logoColor=black" />
