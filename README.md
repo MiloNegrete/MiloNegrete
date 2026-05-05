@@ -63,9 +63,7 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 
 <br>
 
-<sub>
 🧠 Lenguajes · 🎨 Front/Back · ⚙️ Frameworks · 🗄️ BD · 🔧 Git · 🧪 Testing
-</sub>
 
 </div>
 
