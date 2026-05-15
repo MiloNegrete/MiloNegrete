@@ -89,7 +89,6 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 
 <hr>
 
-
 <a href="https://github.com/MiloNegrete/alke_wallet">
   <img src="https://img.shields.io/badge/Alke%20Wallet-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -104,6 +103,8 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 <a href="https://github.com/MiloNegrete/SpringEduManager">
   <img src="https://img.shields.io/badge/SpringEduManager-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
+
 
 
 
