@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Visitantes -->
-<p style="color:#FFD166; font-size:14px; margin-bottom:6px;">
+<p style="color:#FFD166; font-size:16px; margin-bottom:6px;">
 Visitas al perfil
 </p>
 
