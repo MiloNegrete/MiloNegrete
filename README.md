@@ -72,7 +72,7 @@ Enfocado en aplicaciones web funcionales y centradas en el usuario
 
 <div align="center"> 
  
- <a href="https://linkedin.com/in/chijiokeokorji" target="_blank"> 
+ <a href="https://www.linkedin.com/in/camilo-negrete-garrido-82b697414/" target="_blank"> 
     <img <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a> 
 </div>
